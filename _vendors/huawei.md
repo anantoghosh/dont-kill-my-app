@@ -29,7 +29,7 @@ Huawei P9 Plus:
 * *Phone settings > Apps > Settings > Special access > Ignore battery optimisation >* select allow for your app.
 
 
-Huawei P20:
+Huawei P20, Honor 9 Lite:
 
 * *Phone settings > Battery > App launch* and then set your app to “Manage manually” and make sure everything is turned on.
 
